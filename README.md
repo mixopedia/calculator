@@ -1,2 +1,2 @@
-# calculator
-Simple Old Classic Calculator Project
+# Simple-Web-Calculator-JavaScript
+HTML , JAVASCRIPT , CSS
